@@ -1,0 +1,2 @@
+# Custom-Made-PCB-for-Avionics-of-Model-rocket-using-RP2040
+A compact, custom made flight computer for model rockets, designed for reliable altitude tracking, trajectory reconstruction, and safe parachute deployment. Powered by "Raspberry Pico 2040" with GPS, Barometric Pressure sensors and accelerometers. It logs data, controls pyro channels, and supports real-time telemetry for research and recovery.
